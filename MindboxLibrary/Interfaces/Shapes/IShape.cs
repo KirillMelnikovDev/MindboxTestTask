@@ -6,4 +6,13 @@ namespace MindboxLibrary.Interfaces.Shapes
     {
         IAreaCalculator? AreaCalculator { get; }
     }
+
+    //public class UnknownShape : IShape 
+    //{
+    //    public IAreaCalculator? AreaCalculator { get; }
+    //    public UnknownShape() 
+    //    {
+    //        AreaCalculator = null;
+    //    }
+    //}
 }

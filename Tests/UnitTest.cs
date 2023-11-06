@@ -68,6 +68,7 @@ namespace Tests
             IShape shape = new Circle(1);
 
             //Act
+            //не знаем, что именно за фигура, но можем вычсилить площадь
             var result = shape.AreaCalculator?.CalculateArea();
 
             //Assert

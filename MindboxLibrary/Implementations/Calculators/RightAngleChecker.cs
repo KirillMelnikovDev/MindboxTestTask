@@ -5,10 +5,12 @@ namespace MindboxLibrary.Implementations.Calculators
     internal class RightAngleChecker : IAngleChecker
     {
         protected List<double> _sides { get; }
+
         public RightAngleChecker(double a, double b, double c)
         {
             _sides = new List<double>() { a, b, c };
         }
+
         private RightAngleChecker()
             : this(0, 0, 0)
         { }

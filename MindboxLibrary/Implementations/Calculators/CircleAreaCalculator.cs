@@ -7,6 +7,7 @@ namespace MindboxLibrary.Implementations.Calculators
     internal class CircleAreaCalculator : IAreaCalculator
     {
         private double Radius { get; }
+
         public IValidator Validator { get; }
 
         public CircleAreaCalculator(double radius)

@@ -7,8 +7,11 @@ namespace MindboxLibrary.Implementations.Calculators
     internal class TriangleAreaCalculator : IAreaCalculator
     {
         private double SideA { get; }
+
         private double SideB { get; }
+
         private double SideC { get; }
+
         public IValidator Validator { get; }
 
         public TriangleAreaCalculator(double a, double b, double c)
@@ -16,8 +19,10 @@ namespace MindboxLibrary.Implementations.Calculators
             Validator = new TriangleValidator(a, b, c);
             if (!Validator.Validate())
                 throw new ArgumentException("sides are incorrect!");
+
             SideA = a;
-            SideB = b; 
+            SideB = b;
+
             SideC = c;
         }
 
