@@ -1,6 +1,6 @@
-﻿using MindboxLibrary.Interfaces.Validators;
+﻿using MindboxLibrary.SourceCode.Interfaces.Validators;
 
-namespace MindboxLibrary.Implementations.Validators
+namespace MindboxLibrary.SourceCode.Implementations.Validators
 {
     /// <summary>
     /// У круга радиус должен быть положительным

@@ -1,6 +1,6 @@
-﻿using MindboxLibrary.Interfaces.Calculators;
+﻿using MindboxLibrary.SourceCode.Interfaces.Calculators;
 
-namespace MindboxLibrary.Implementations.Calculators
+namespace MindboxLibrary.SourceCode.Implementations.Calculators
 {
     internal class RightAngleChecker : IAngleChecker
     {

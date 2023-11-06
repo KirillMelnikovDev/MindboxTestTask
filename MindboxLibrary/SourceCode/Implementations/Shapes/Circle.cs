@@ -1,8 +1,8 @@
-﻿using MindboxLibrary.Implementations.Calculators;
-using MindboxLibrary.Interfaces.Calculators;
-using MindboxLibrary.Interfaces.Shapes;
+﻿using MindboxLibrary.SourceCode.Interfaces.Shapes;
+using MindboxLibrary.SourceCode.Interfaces.Calculators;
+using MindboxLibrary.SourceCode.Implementations.Calculators;
 
-namespace MindboxLibrary.Implementations.Shapes
+namespace MindboxLibrary.SourceCode.Implementations.Shapes
 {
     public class Circle : IShape
     {

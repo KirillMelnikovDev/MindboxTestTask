@@ -1,8 +1,8 @@
-﻿using MindboxLibrary.Implementations.Calculators;
-using MindboxLibrary.Interfaces.Calculators;
-using MindboxLibrary.Interfaces.Shapes;
+﻿using MindboxLibrary.SourceCode.Interfaces.Shapes;
+using MindboxLibrary.SourceCode.Interfaces.Calculators;
+using MindboxLibrary.SourceCode.Implementations.Calculators;
 
-namespace MindboxLibrary.Implementations.Shapes
+namespace MindboxLibrary.SourceCode.Implementations.Shapes
 {
     public class Triangle : IShape
     {
@@ -18,14 +18,14 @@ namespace MindboxLibrary.Implementations.Shapes
 
         public double Area { get; }
 
-        public bool IsRightAngle {  get; }
+        public bool IsRightAngle { get; }
 
         public Triangle(double a, double b, double c)
         {
             AreaCalculator = new TriangleAreaCalculator(a, b, c);
             AngleChecker = new RightAngleChecker(a, b, c);
-            SideA = a; 
-            SideB = b; 
+            SideA = a;
+            SideB = b;
             SideC = c;
             Area = AreaCalculator.CalculateArea();
             IsRightAngle = AngleChecker.CheckAngle();

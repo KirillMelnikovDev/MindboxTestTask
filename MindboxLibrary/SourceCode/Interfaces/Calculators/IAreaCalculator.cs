@@ -1,6 +1,6 @@
-﻿using MindboxLibrary.Interfaces.Validators;
+﻿using MindboxLibrary.SourceCode.Interfaces.Validators;
 
-namespace MindboxLibrary.Interfaces.Calculators
+namespace MindboxLibrary.SourceCode.Interfaces.Calculators
 {
     public interface IAreaCalculator
     {

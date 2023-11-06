@@ -1,4 +1,4 @@
-﻿namespace MindboxLibrary.Interfaces.Calculators
+﻿namespace MindboxLibrary.SourceCode.Interfaces.Calculators
 {
     public interface IAngleChecker
     {

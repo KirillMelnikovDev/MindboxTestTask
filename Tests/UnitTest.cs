@@ -1,5 +1,5 @@
-using MindboxLibrary.Implementations.Shapes;
-using MindboxLibrary.Interfaces.Shapes;
+using MindboxLibrary.SourceCode.Interfaces.Shapes;
+using MindboxLibrary.SourceCode.Implementations.Shapes;
 
 namespace Tests
 {

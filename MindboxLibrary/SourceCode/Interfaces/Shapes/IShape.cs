@@ -1,6 +1,6 @@
-﻿using MindboxLibrary.Interfaces.Calculators;
+﻿using MindboxLibrary.SourceCode.Interfaces.Calculators;
 
-namespace MindboxLibrary.Interfaces.Shapes
+namespace MindboxLibrary.SourceCode.Interfaces.Shapes
 {
     public interface IShape
     {

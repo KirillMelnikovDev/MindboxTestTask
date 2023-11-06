@@ -1,6 +1,6 @@
-﻿using MindboxLibrary.Interfaces.Validators;
+﻿using MindboxLibrary.SourceCode.Interfaces.Validators;
 
-namespace MindboxLibrary.Implementations.Validators
+namespace MindboxLibrary.SourceCode.Implementations.Validators
 {
     /// <summary>
     /// У треугольника сумма двух его сторон должна быть больше третьей стороны

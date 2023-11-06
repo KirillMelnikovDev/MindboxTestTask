@@ -1,4 +1,4 @@
-﻿namespace MindboxLibrary.Interfaces.Validators
+﻿namespace MindboxLibrary.SourceCode.Interfaces.Validators
 {
     public interface IValidator
     {

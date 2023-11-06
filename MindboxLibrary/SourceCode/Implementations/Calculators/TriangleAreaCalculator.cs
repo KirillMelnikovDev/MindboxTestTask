@@ -1,8 +1,8 @@
-﻿using MindboxLibrary.Implementations.Validators;
-using MindboxLibrary.Interfaces.Calculators;
-using MindboxLibrary.Interfaces.Validators;
+﻿using MindboxLibrary.SourceCode.Interfaces.Calculators;
+using MindboxLibrary.SourceCode.Interfaces.Validators;
+using MindboxLibrary.SourceCode.Implementations.Validators;
 
-namespace MindboxLibrary.Implementations.Calculators
+namespace MindboxLibrary.SourceCode.Implementations.Calculators
 {
     internal class TriangleAreaCalculator : IAreaCalculator
     {
