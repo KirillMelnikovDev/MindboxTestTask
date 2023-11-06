@@ -1,0 +1,11 @@
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\bin\Debug\net7.0\MindboxLibrary.deps.json
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\bin\Debug\net7.0\MindboxLibrary.dll
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\bin\Debug\net7.0\MindboxLibrary.pdb
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\MindboxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\MindboxLibrary.AssemblyInfoInputs.cache
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\MindboxLibrary.AssemblyInfo.cs
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\MindboxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\MindboxLibrary.dll
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\refint\MindboxLibrary.dll
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\MindboxLibrary.pdb
+C:\Users\Cyril\source\repos\MindboxTestTask\MindboxLibrary\obj\Debug\net7.0\ref\MindboxLibrary.dll
