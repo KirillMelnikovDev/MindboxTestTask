@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql", "Sql", "{2CEA5507-92C
 		SqlQuery.sql = SqlQuery.sql
 	EndProjectSection
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DbProject", "..\DbProject\DbProject.sqlproj", "{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,12 @@ Global
 		{87A424A8-9623-4DE9-9A0A-96C0386FFFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A424A8-9623-4DE9-9A0A-96C0386FFFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A424A8-9623-4DE9-9A0A-96C0386FFFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AD9157-3B0A-4ED5-B08C-CD4D0ECF4090}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
